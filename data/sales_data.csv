@@ -1,0 +1,6 @@
+OrderID,Product,Category,Sales,Region,OrderDate
+1001,Laptop,Electronics,1200,North,2023-01-10
+1002,Mobile,Electronics,800,South,2023-01-15
+1003,Book,Stationery,20,North,2023-01-12
+1004,Pen,Stationery,5,East,2023-01-11
+1005,Tablet,Electronics,600,West,2023-01-18
